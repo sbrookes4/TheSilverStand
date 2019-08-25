@@ -1,0 +1,11 @@
+.Slider{
+width:100%;
+float:left;
+color:white;
+background-color:red;
+margin-left:3vw;
+}
+
+.sliderWrapper{
+margin-left:3vw;
+}

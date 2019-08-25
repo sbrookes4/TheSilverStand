@@ -1,0 +1,1 @@
+<img class="jumboImage" src="">
